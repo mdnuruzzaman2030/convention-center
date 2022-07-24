@@ -9,3 +9,16 @@
 
 /* Slider  */
 
+.card{
+    border-color: transparent !important;
+}
+
+.card-title{
+    color: #231D4F;
+    
+}
+
+.fa-square-caret-right{
+    color: #5243C2 ;
+}
+
